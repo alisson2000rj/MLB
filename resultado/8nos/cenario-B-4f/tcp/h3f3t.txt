@@ -1,0 +1,240 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 48372 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-615.7 sec  243007488 Bytes  3157487 bits/sec
+Rodada: 0
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 49036 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.6 sec  199622656 Bytes  2654447 bits/sec
+Rodada: 1
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 49646 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-613.5 sec  197001216 Bytes  2569066 bits/sec
+Rodada: 2
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 50318 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.6 sec  237502464 Bytes  3163436 bits/sec
+Rodada: 3
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 50926 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.9 sec  231342080 Bytes  3074836 bits/sec
+Rodada: 4
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 51536 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-605.5 sec  220987392 Bytes  2919698 bits/sec
+Rodada: 5
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 52192 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.5 sec  214433792 Bytes  2856865 bits/sec
+Rodada: 6
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 52804 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-608.6 sec  215744512 Bytes  2835713 bits/sec
+Rodada: 7
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 53400 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-604.1 sec  205783040 Bytes  2725125 bits/sec
+Rodada: 8
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 54070 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-613.5 sec  218103808 Bytes  2844068 bits/sec
+Rodada: 9
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 54678 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-608.9 sec  244842496 Bytes  3216730 bits/sec
+Rodada: 10
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 55334 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-615.3 sec  210108416 Bytes  2731888 bits/sec
+Rodada: 11
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 55950 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-611.5 sec  251658240 Bytes  3292397 bits/sec
+Rodada: 12
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 56560 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.2 sec  216137728 Bytes  2880727 bits/sec
+Rodada: 13
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 57204 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.9 sec  217317376 Bytes  2883401 bits/sec
+Rodada: 14
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 57820 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-609.0 sec  227672064 Bytes  2990599 bits/sec
+Rodada: 15
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 58426 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-604.3 sec  214302720 Bytes  2836890 bits/sec
+Rodada: 16
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 59074 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.8 sec  219807744 Bytes  2912368 bits/sec
+Rodada: 17
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 59686 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.9 sec  216793088 Bytes  2881416 bits/sec
+Rodada: 18
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 60296 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-611.2 sec  225968128 Bytes  2957596 bits/sec
+Rodada: 19
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 60956 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-624.1 sec  218890240 Bytes  2805684 bits/sec
+Rodada: 20
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 33332 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.3 sec  197787648 Bytes  2622875 bits/sec
+Rodada: 21
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 33990 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-620.7 sec  188874752 Bytes  2434203 bits/sec
+Rodada: 22
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 34658 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-605.5 sec  228327424 Bytes  3016775 bits/sec
+Rodada: 23
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 35274 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.2 sec  236847104 Bytes  3156938 bits/sec
+Rodada: 24
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 35998 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-604.1 sec  221118464 Bytes  2928187 bits/sec
+Rodada: 25
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 36588 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.4 sec  211419136 Bytes  2803096 bits/sec
+Rodada: 26
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 37392 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-606.7 sec  232783872 Bytes  3069522 bits/sec
+Rodada: 27
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 37978 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.2 sec  212336640 Bytes  2825670 bits/sec
+Rodada: 28
+------------------------------------------------------------
+Client connecting to 10.0.0.7, TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.3 port 38540 connected with 10.0.0.7 port 5003
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-622.8 sec  225312768 Bytes  2894239 bits/sec
+Rodada: 29

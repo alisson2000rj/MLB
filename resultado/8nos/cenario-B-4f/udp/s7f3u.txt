@@ -1,0 +1,96 @@
+------------------------------------------------------------
+Server listening on UDP port 5003
+Receiving 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 41845
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0-601.2 sec  193512270 Bytes  2574956 bits/sec   0.228 ms 353403/485044 (73%)
+[  3]  0.0-601.2 sec  185 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 35419
+[  4]  0.0-601.3 sec  202899690 Bytes  2699283 bits/sec   8.502 ms 346995/485022 (72%)
+[  4]  0.0-601.3 sec  146 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 53162
+[  3]  0.0-602.4 sec  235003020 Bytes  3120769 bits/sec   0.495 ms 325041/484907 (67%)
+[  3]  0.0-602.4 sec  176 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 52156
+[  4]  0.0-601.8 sec  123932760 Bytes  1647477 bits/sec   0.617 ms 400736/485044 (83%)
+[  4]  0.0-601.8 sec  52 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 54019
+[  3]  0.0-601.2 sec  242470620 Bytes  3226275 bits/sec   2.128 ms 319829/484775 (66%)
+[  3]  0.0-601.2 sec  151 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 45720
+[  4]  0.0-602.4 sec  186281340 Bytes  2473654 bits/sec   1.702 ms 358323/485045 (74%)
+[  4]  0.0-602.4 sec  118 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 57838
+[  3]  0.0-602.4 sec  317308320 Bytes  4213672 bits/sec   0.851 ms 269189/485045 (55%)
+[  3]  0.0-602.4 sec  198 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 48307
+[  4]  0.0-601.2 sec  215350590 Bytes  2865603 bits/sec   0.187 ms 338548/485045 (70%)
+[  4]  0.0-601.2 sec  119 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 36912
+[  3]  0.0-601.2 sec  166893510 Bytes  2220768 bits/sec   0.174 ms 371509/485042 (77%)
+[  3]  0.0-601.2 sec  130 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 53698
+[  4]  0.0-601.2 sec  209477940 Bytes  2787392 bits/sec   0.291 ms 342539/485041 (71%)
+[  4]  0.0-601.2 sec  132 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 60319
+[  3]  0.0-601.3 sec  201350310 Bytes  2678777 bits/sec   7.127 ms 348068/485041 (72%)
+[  3]  0.0-601.3 sec  121 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 54534
+[  4]  0.0-602.4 sec  290739540 Bytes  3860932 bits/sec   0.500 ms 287264/485046 (59%)
+[  4]  0.0-602.4 sec  201 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 45102
+[  3]  0.0-602.3 sec  258620040 Bytes  3435088 bits/sec   5.687 ms 309113/485045 (64%)
+[  3]  0.0-602.3 sec  175 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 50093
+[  4]  0.0-601.3 sec  187400010 Bytes  2493230 bits/sec   0.460 ms 357293/484776 (74%)
+[  4]  0.0-601.3 sec  88 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 34738
+[  3]  0.0-602.4 sec  237693120 Bytes  3156394 bits/sec   0.548 ms 323345/485041 (67%)
+[  3]  0.0-602.4 sec  153 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44123
+[  4]  0.0-602.3 sec  205629480 Bytes  2731195 bits/sec   0.411 ms 345160/485044 (71%)
+[  4]  0.0-602.3 sec  116 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 54201
+[  3]  0.0-601.2 sec  264952800 Bytes  3525615 bits/sec   0.234 ms 304219/484459 (63%)
+[  3]  0.0-601.2 sec  175 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 47024
+[  4]  0.0-601.1 sec  228707010 Bytes  3044027 bits/sec   0.416 ms 329057/484640 (68%)
+[  4]  0.0-601.1 sec  179 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 47690
+[  3]  0.0-602.4 sec  216094410 Bytes  2869556 bits/sec   1.664 ms 338043/485046 (70%)
+[  3]  0.0-602.4 sec  130 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 36941
+[  4]  0.0-601.2 sec  247057020 Bytes  3287463 bits/sec   0.556 ms 316568/484634 (65%)
+[  4]  0.0-601.2 sec  163 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 55901
+[  3]  0.0-602.4 sec  163815330 Bytes  2175329 bits/sec   2.118 ms 373604/485043 (77%)
+[  3]  0.0-602.4 sec  97 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 48034
+[  4]  0.0-602.4 sec  213111780 Bytes  2830083 bits/sec   0.331 ms 339526/484500 (70%)
+[  4]  0.0-602.4 sec  135 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44144
+[  3]  0.0-601.3 sec  220929240 Bytes  2939591 bits/sec   2.558 ms 334522/484814 (69%)
+[  3]  0.0-601.3 sec  130 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 54686
+[  4]  0.0-601.2 sec  248382960 Bytes  3305145 bits/sec   0.304 ms 316077/485045 (65%)
+[  4]  0.0-601.2 sec  144 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 58303
+[  3]  0.0-601.3 sec  228927510 Bytes  3045521 bits/sec   0.261 ms 329312/485045 (68%)
+[  3]  0.0-601.3 sec  129 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 53711
+[  4]  0.0-602.3 sec  192661140 Bytes  2558984 bits/sec   0.234 ms 353936/484998 (73%)
+[  4]  0.0-602.3 sec  179 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 43714
+[  3]  0.0-602.3 sec  166437810 Bytes  2210515 bits/sec   7.254 ms 371776/484999 (77%)
+[  3]  0.0-602.3 sec  88 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 33742
+[  4]  0.0-600.9 sec  142669380 Bytes  1899271 bits/sec   0.293 ms 387991/485045 (80%)
+[  4]  0.0-600.9 sec  65 datagrams received out-of-order
+[  3] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 50309
+[  3]  0.0-602.5 sec  183579480 Bytes  2437578 bits/sec   4.776 ms 359931/484815 (74%)
+[  3]  0.0-602.5 sec  106 datagrams received out-of-order
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 36871
+[  4]  0.0-601.2 sec  212404710 Bytes  2826338 bits/sec   0.511 ms 340507/485000 (70%)
+[  4]  0.0-601.2 sec  130 datagrams received out-of-order

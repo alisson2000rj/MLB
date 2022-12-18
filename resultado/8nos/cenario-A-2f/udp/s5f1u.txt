@@ -1,0 +1,96 @@
+------------------------------------------------------------
+Server listening on UDP port 5001
+Receiving 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 55986
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0-600.0 sec  693926730 Bytes  9252331 bits/sec   0.009 ms 12986/485045 (2.7%)
+[  3]  0.0-600.0 sec  498 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 56717
+[  4]  0.0-600.0 sec  693697410 Bytes  9249262 bits/sec   0.590 ms 13142/485045 (2.7%)
+[  4]  0.0-600.0 sec  655 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 35690
+[  3]  0.0-600.0 sec  700671090 Bytes  9341952 bits/sec   0.341 ms 8397/485044 (1.7%)
+[  3]  0.0-600.0 sec  722 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 45121
+[  4]  0.0-600.0 sec  689945970 Bytes  9199262 bits/sec   0.015 ms 15469/484820 (3.2%)
+[  4]  0.0-600.0 sec  1462 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 52627
+[  3]  0.0-600.0 sec  713016150 Bytes  9506866 bits/sec   0.011 ms   23/485044 (0.0047%)
+[  3]  0.0-600.0 sec  24 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 60474
+[  4]  0.0-600.0 sec  713017620 Bytes  9506876 bits/sec   0.055 ms   18/485045 (0.0037%)
+[  4]  0.0-600.0 sec  19 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 53055
+[  3]  0.0-600.0 sec  700712250 Bytes  9342803 bits/sec   0.310 ms 8370/485045 (1.7%)
+[  3]  0.0-600.0 sec  1481 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 52619
+[  4]  0.0-600.0 sec  695187990 Bytes  9269106 bits/sec   0.229 ms 12128/485045 (2.5%)
+[  4]  0.0-600.0 sec  701 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 58436
+[  3]  0.0-600.0 sec  681121560 Bytes  9081592 bits/sec   0.009 ms 21697/485045 (4.5%)
+[  3]  0.0-600.0 sec  2554 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 45130
+[  4]  0.0-600.0 sec  674680020 Bytes  8995703 bits/sec   0.008 ms 26079/485045 (5.4%)
+[  4]  0.0-600.0 sec  1053 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 53405
+[  3]  0.0-600.0 sec  704105010 Bytes  9388032 bits/sec   0.405 ms 6062/485045 (1.2%)
+[  3]  0.0-600.0 sec  1566 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 55286
+[  4]  0.0-600.0 sec  701810340 Bytes  9357446 bits/sec   0.089 ms 7623/485045 (1.6%)
+[  4]  0.0-600.0 sec  599 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 41113
+[  3]  0.0-600.0 sec  690873540 Bytes  9211339 bits/sec   0.313 ms 15063/485045 (3.1%)
+[  3]  0.0-600.0 sec  2333 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 43011
+[  4]  0.0-600.0 sec  700382970 Bytes  9338409 bits/sec   0.013 ms 8594/485045 (1.8%)
+[  4]  0.0-600.0 sec  1656 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 34047
+[  3]  0.0-600.0 sec  713017620 Bytes  9506851 bits/sec   0.302 ms   18/485045 (0.0037%)
+[  3]  0.0-600.0 sec  19 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 33075
+[  4]  0.0-600.0 sec  703005450 Bytes  9373377 bits/sec   0.027 ms 6810/485045 (1.4%)
+[  4]  0.0-600.0 sec  950 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 55717
+[  3]  0.0-600.0 sec  713017620 Bytes  9506873 bits/sec   0.008 ms   20/485045 (0.0041%)
+[  3]  0.0-600.0 sec  21 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 46015
+[  4]  0.0-601.2 sec  685194930 Bytes  9117324 bits/sec   0.970 ms 18926/485045 (3.9%)
+[  4]  0.0-601.2 sec  935 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 59480
+[  3]  0.0-600.0 sec  692753670 Bytes  9236682 bits/sec   0.020 ms 13784/485045 (2.8%)
+[  3]  0.0-600.0 sec  2419 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 47864
+[  4]  0.0-600.0 sec  683298630 Bytes  9110622 bits/sec   0.609 ms 20216/485045 (4.2%)
+[  4]  0.0-600.0 sec  3682 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 51851
+[  3]  0.0-600.0 sec  696330180 Bytes  9284374 bits/sec   0.023 ms 11216/484910 (2.3%)
+[  3]  0.0-600.0 sec  757 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 53073
+[  4]  0.0-600.0 sec  694092840 Bytes  9254549 bits/sec   0.012 ms 12783/484955 (2.6%)
+[  4]  0.0-600.0 sec  1408 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 34133
+[  3]  0.0-600.0 sec  702270450 Bytes  9363573 bits/sec   0.024 ms 7310/485045 (1.5%)
+[  3]  0.0-600.0 sec  1325 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 51717
+[  4]  0.0-600.0 sec  702318960 Bytes  9364240 bits/sec   0.014 ms 7274/485042 (1.5%)
+[  4]  0.0-600.0 sec  1516 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 52189
+[  3]  0.0-600.0 sec  713017620 Bytes  9506859 bits/sec   0.085 ms   14/485045 (0.0029%)
+[  3]  0.0-600.0 sec  15 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 48347
+[  4]  0.0-600.0 sec  713017620 Bytes  9506894 bits/sec   0.014 ms   34/485045 (0.007%)
+[  4]  0.0-600.0 sec  35 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 55078
+[  3]  0.0-600.0 sec  713017620 Bytes  9506868 bits/sec   0.007 ms   23/485045 (0.0047%)
+[  3]  0.0-600.0 sec  24 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 40266
+[  4]  0.0-600.0 sec  694497090 Bytes  9259883 bits/sec   0.901 ms 12598/485045 (2.6%)
+[  4]  0.0-600.0 sec  649 datagrams received out-of-order
+[  3] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 60118
+[  3]  0.0-600.0 sec  699401010 Bytes  9325315 bits/sec   0.421 ms 9260/485043 (1.9%)
+[  3]  0.0-600.0 sec  446 datagrams received out-of-order
+[  4] local 10.0.0.5 port 5001 connected with 10.0.0.1 port 49921
+[  4]  0.0-600.0 sec  704041800 Bytes  9387163 bits/sec   0.042 ms 6102/485042 (1.3%)
+[  4]  0.0-600.0 sec  1442 datagrams received out-of-order

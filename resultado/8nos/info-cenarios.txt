@@ -1,0 +1,5 @@
+Cenário A = implementação do MLB no opendaylight com modo proativo habilitado
+
+Cenário B = implementação de Seth no opendaylight com modo proativo habilitado
+
+Cenário C = implementação do opendaylight com modo proativo sem balancemaneto de carga

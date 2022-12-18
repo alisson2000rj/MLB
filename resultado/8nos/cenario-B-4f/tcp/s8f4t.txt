@@ -1,0 +1,65 @@
+------------------------------------------------------------
+Server listening on TCP port 5004
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 48110
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-635.7 sec  227409920 Bytes  2861628 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 48784
+[  5]  0.0-621.3 sec  207618048 Bytes  2673508 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 49394
+[  4]  0.0-623.5 sec  230031360 Bytes  2951600 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 50058
+[  5]  0.0-617.6 sec  217579520 Bytes  2818229 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 50672
+[  4]  0.0-612.9 sec  175505408 Bytes  2290706 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 51282
+[  5]  0.0-614.8 sec  247463936 Bytes  3219871 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 51942
+[  4]  0.0-619.9 sec  241696768 Bytes  3119180 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 52554
+[  5]  0.0-618.4 sec  198311936 Bytes  2565335 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 53142
+[  4]  0.0-632.0 sec  227803136 Bytes  2883586 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 53818
+[  5]  0.0-628.3 sec  228458496 Bytes  2908776 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 54424
+[  4]  0.0-619.6 sec  249561088 Bytes  3222319 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 55072
+[  5]  0.0-626.8 sec  239599616 Bytes  3058005 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 55696
+[  4]  0.0-634.8 sec  216530944 Bytes  2728969 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 56306
+[  5]  0.0-635.2 sec  251527168 Bytes  3167783 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 56954
+[  4]  0.0-620.1 sec  223477760 Bytes  2882889 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 57562
+[  5]  0.0-627.3 sec  202506240 Bytes  2582559 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 58172
+[  4]  0.0-624.4 sec  221118464 Bytes  2833159 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 58820
+[  5]  0.0-631.4 sec  204734464 Bytes  2593964 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 59432
+[  4]  0.0-615.1 sec  191758336 Bytes  2494167 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 60038
+[  5]  0.0-630.0 sec  203685888 Bytes  2586381 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 60698
+[  4]  0.0-627.6 sec  212336640 Bytes  2706691 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 33074
+[  5]  0.0-616.3 sec  214564864 Bytes  2785338 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 33740
+[  4]  0.0-633.6 sec  246415360 Bytes  3111083 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 34398
+[  5]  0.0-617.9 sec  206962688 Bytes  2679438 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 35022
+[  4]  0.0-626.8 sec  226623488 Bytes  2892348 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 35744
+[  5]  0.0-626.6 sec  213385216 Bytes  2724446 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 36336
+[  4]  0.0-626.9 sec  203816960 Bytes  2601053 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 37134
+[  5]  0.0-617.0 sec  204341248 Bytes  2649655 bits/sec
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 37716
+[  4]  0.0-613.4 sec  212205568 Bytes  2767795 bits/sec
+[  5] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 38286
+[  5]  0.0-631.2 sec  212336640 Bytes  2691220 bits/sec

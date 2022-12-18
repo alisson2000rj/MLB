@@ -1,0 +1,96 @@
+------------------------------------------------------------
+Server listening on UDP port 5004
+Receiving 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 37014
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0-601.2 sec  241174080 Bytes  3209169 bits/sec   0.232 ms 320979/485043 (66%)
+[  3]  0.0-601.2 sec  262 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 33393
+[  4]  0.0-601.3 sec  201043080 Bytes  2674592 bits/sec   8.414 ms 348271/485035 (72%)
+[  4]  0.0-601.3 sec  168 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 60901
+[  3]  0.0-602.4 sec  169517460 Bytes  2251142 bits/sec   0.489 ms 369453/484771 (76%)
+[  3]  0.0-602.4 sec  137 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 44068
+[  4]  0.0-601.8 sec  289685550 Bytes  3850934 bits/sec   0.252 ms 287980/485045 (59%)
+[  4]  0.0-601.8 sec  195 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 38927
+[  3]  0.0-601.2 sec  250659990 Bytes  3335204 bits/sec   2.303 ms 314304/484821 (65%)
+[  3]  0.0-601.2 sec  160 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 48910
+[  4]  0.0-602.5 sec  284098080 Bytes  3772551 bits/sec   2.035 ms 291777/485041 (60%)
+[  4]  0.0-602.5 sec  213 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 52220
+[  3]  0.0-602.5 sec  127121190 Bytes  1688043 bits/sec   1.908 ms 398567/485044 (82%)
+[  3]  0.0-602.5 sec  58 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 32980
+[  4]  0.0-601.2 sec  261298380 Bytes  3477160 bits/sec   0.469 ms 307291/485045 (63%)
+[  4]  0.0-601.2 sec  231 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 51947
+[  3]  0.0-601.2 sec  186174030 Bytes  2477401 bits/sec   0.555 ms 357812/484461 (74%)
+[  3]  0.0-601.2 sec  87 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 37675
+[  4]  0.0-601.2 sec  167343330 Bytes  2226726 bits/sec   0.334 ms 371206/485045 (77%)
+[  4]  0.0-601.2 sec  84 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 60724
+[  3]  0.0-601.3 sec  207172980 Bytes  2756235 bits/sec   7.068 ms 344019/484953 (71%)
+[  3]  0.0-601.3 sec  121 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 52315
+[  4]  0.0-602.5 sec  156306570 Bytes  2075373 bits/sec   0.272 ms 378714/485045 (78%)
+[  4]  0.0-602.5 sec  95 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 42620
+[  3]  0.0-602.1 sec  173264490 Bytes  2302257 bits/sec   0.244 ms 367178/485045 (76%)
+[  3]  0.0-602.1 sec  107 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 43789
+[  4]  0.0-601.2 sec  157075380 Bytes  2090086 bits/sec   0.636 ms 377964/484818 (78%)
+[  4]  0.0-601.2 sec  70 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 39322
+[  3]  0.0-602.4 sec  219754710 Bytes  2918204 bits/sec   0.393 ms 335549/485042 (69%)
+[  3]  0.0-602.4 sec  167 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 45158
+[  4]  0.0-602.4 sec  243205620 Bytes  3229605 bits/sec   0.865 ms 319590/485036 (66%)
+[  4]  0.0-602.4 sec  177 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 60206
+[  3]  0.0-601.2 sec  188570130 Bytes  2509186 bits/sec   0.352 ms 356222/484501 (74%)
+[  3]  0.0-601.2 sec  96 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 41773
+[  4]  0.0-601.4 sec  219698850 Bytes  2922643 bits/sec   8.985 ms 335273/484728 (69%)
+[  4]  0.0-601.4 sec  140 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 56079
+[  3]  0.0-602.4 sec  189096390 Bytes  2511149 bits/sec   0.564 ms 356408/485045 (73%)
+[  3]  0.0-602.4 sec  143 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 32870
+[  4]  0.0-601.2 sec  191083830 Bytes  2542751 bits/sec   0.397 ms 354646/484635 (73%)
+[  4]  0.0-601.2 sec  121 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 50511
+[  3]  0.0-602.4 sec  231504420 Bytes  3074589 bits/sec   0.280 ms 327547/485033 (68%)
+[  3]  0.0-602.4 sec  162 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 58592
+[  4]  0.0-602.4 sec  192355380 Bytes  2554460 bits/sec   0.374 ms 353785/484639 (73%)
+[  4]  0.0-602.4 sec  108 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 46421
+[  3]  0.0-601.2 sec  193121250 Bytes  2569762 bits/sec   0.424 ms 353441/484816 (73%)
+[  3]  0.0-601.2 sec  154 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 56581
+[  4]  0.0-601.3 sec  186285750 Bytes  2478452 bits/sec   5.579 ms 358318/485043 (74%)
+[  4]  0.0-601.3 sec  141 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 33100
+[  3]  0.0-601.2 sec  174874140 Bytes  2327036 bits/sec   0.250 ms 366038/485000 (75%)
+[  3]  0.0-601.2 sec  74 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 54062
+[  4]  0.0-602.5 sec  206981880 Bytes  2748115 bits/sec   7.990 ms 344241/485045 (71%)
+[  4]  0.0-602.5 sec  87 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 40563
+[  3]  0.0-602.5 sec  215975340 Bytes  2867769 bits/sec   0.249 ms 338123/485045 (70%)
+[  3]  0.0-602.5 sec  117 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 55367
+[  4]  0.0-601.1 sec  211388940 Bytes  2813570 bits/sec   0.246 ms 341236/485038 (70%)
+[  4]  0.0-601.1 sec  146 datagrams received out-of-order
+[  3] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 39123
+[  3]  0.0-602.5 sec  203004060 Bytes  2695332 bits/sec   7.367 ms 344338/482436 (71%)
+[  3]  0.0-602.5 sec  141 datagrams received out-of-order
+[  4] local 10.0.0.8 port 5004 connected with 10.0.0.4 port 38217
+[  4]  0.0-601.3 sec  209435310 Bytes  2786626 bits/sec   3.051 ms 342571/485044 (71%)
+[  4]  0.0-601.3 sec  120 datagrams received out-of-order

@@ -1,0 +1,65 @@
+------------------------------------------------------------
+Server listening on TCP port 5003
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 43098
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-616.8 sec  193855488 Bytes  2514174 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 43292
+[  5]  0.0-614.7 sec  179306496 Bytes  2333654 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 43422
+[  4]  0.0-615.2 sec  177995776 Bytes  2314524 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 43760
+[  5]  0.0-614.8 sec  177864704 Bytes  2314391 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 43914
+[  4]  0.0-618.8 sec  207749120 Bytes  2685899 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44068
+[  5]  0.0-616.2 sec  196870144 Bytes  2555839 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44220
+[  4]  0.0-619.5 sec  184942592 Bytes  2388320 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44374
+[  5]  0.0-611.6 sec  183369728 Bytes  2398455 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44538
+[  4]  0.0-617.7 sec  208666624 Bytes  2702432 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44700
+[  5]  0.0-615.3 sec  197001216 Bytes  2561170 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44842
+[  4]  0.0-617.5 sec  197525504 Bytes  2559012 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 44968
+[  5]  0.0-621.7 sec  186384384 Bytes  2398397 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 45160
+[  4]  0.0-619.9 sec  177995776 Bytes  2297186 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 45310
+[  5]  0.0-614.6 sec  183631872 Bytes  2390102 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 45456
+[  4]  0.0-614.6 sec  184156160 Bytes  2396909 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 45608
+[  5]  0.0-613.3 sec  182976512 Bytes  2386885 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 45732
+[  4]  0.0-614.1 sec  188874752 Bytes  2460427 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 45926
+[  5]  0.0-617.0 sec  188350464 Bytes  2442039 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 46084
+[  4]  0.0-616.3 sec  182714368 Bytes  2371908 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 46218
+[  5]  0.0-615.4 sec  189399040 Bytes  2462169 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 46360
+[  4]  0.0-619.4 sec  181403648 Bytes  2343062 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 46538
+[  5]  0.0-617.6 sec  180486144 Bytes  2337870 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 46672
+[  4]  0.0-612.1 sec  173670400 Bytes  2269872 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 46808
+[  5]  0.0-614.4 sec  194510848 Bytes  2532488 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 46978
+[  4]  0.0-615.4 sec  198836224 Bytes  2584841 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 47136
+[  5]  0.0-621.3 sec  197525504 Bytes  2543296 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 47272
+[  4]  0.0-616.7 sec  190578688 Bytes  2472257 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 47426
+[  5]  0.0-615.9 sec  195821568 Bytes  2543749 bits/sec
+[  4] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 47596
+[  4]  0.0-616.6 sec  175112192 Bytes  2271981 bits/sec
+[  5] local 10.0.0.7 port 5003 connected with 10.0.0.3 port 47762
+[  5]  0.0-618.9 sec  187301888 Bytes  2420948 bits/sec

@@ -1,0 +1,96 @@
+------------------------------------------------------------
+Server listening on UDP port 5002
+Receiving 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 39685
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0-601.2 sec  420183330 Bytes  5591082 bits/sec   0.542 ms 199206/485045 (41%)
+[  3]  0.0-601.2 sec  307 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 39083
+[  4]  0.0-601.2 sec  403231290 Bytes  5365559 bits/sec   0.386 ms 210321/484628 (43%)
+[  4]  0.0-601.2 sec  246 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 59662
+[  3]  0.0-601.2 sec  313821480 Bytes  4175691 bits/sec   0.393 ms 271509/484993 (56%)
+[  3]  0.0-601.2 sec  198 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 33425
+[  4]  0.0-601.3 sec  381328290 Bytes  5073776 bits/sec   2.195 ms 225501/484908 (47%)
+[  4]  0.0-601.3 sec  253 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 43754
+[  3]  0.0-601.2 sec  314929860 Bytes  4190542 bits/sec   0.260 ms 270538/484776 (56%)
+[  3]  0.0-601.2 sec  182 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 43915
+[  4]  0.0-601.2 sec  429379650 Bytes  5713368 bits/sec   0.250 ms 192541/484636 (40%)
+[  4]  0.0-601.2 sec  306 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 40288
+[  3]  0.0-601.2 sec  371518980 Bytes  4943341 bits/sec   0.506 ms 232252/484986 (48%)
+[  3]  0.0-601.2 sec  227 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 43167
+[  4]  0.0-601.2 sec  435709470 Bytes  5797552 bits/sec   0.199 ms 188645/485046 (39%)
+[  4]  0.0-601.2 sec  259 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 54314
+[  3]  0.0-601.2 sec  266327250 Bytes  3543717 bits/sec   0.445 ms 303871/485046 (63%)
+[  3]  0.0-601.2 sec  140 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 56491
+[  4]  0.0-601.2 sec  371083860 Bytes  4937627 bits/sec   0.398 ms 232247/484685 (48%)
+[  4]  0.0-601.2 sec  299 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 41486
+[  3]  0.0-601.2 sec  374608920 Bytes  4984604 bits/sec   0.260 ms 229984/484820 (47%)
+[  3]  0.0-601.2 sec  293 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 38620
+[  4]  0.0-601.2 sec  291048240 Bytes  3872761 bits/sec   0.366 ms 287008/485000 (59%)
+[  4]  0.0-601.2 sec  188 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 43949
+[  3]  0.0-601.3 sec  418603080 Bytes  5569054 bits/sec   0.337 ms 200281/485045 (41%)
+[  3]  0.0-601.3 sec  237 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 40827
+[  4]  0.0-601.2 sec  407783880 Bytes  5426130 bits/sec   0.224 ms 207372/484776 (43%)
+[  4]  0.0-601.2 sec  261 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 55997
+[  3]  0.0-601.2 sec  459735150 Bytes  6117246 bits/sec   0.206 ms 172299/485044 (36%)
+[  3]  0.0-601.2 sec  301 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 59005
+[  4]  0.0-601.3 sec  279814500 Bytes  3722650 bits/sec   0.261 ms 294695/485045 (61%)
+[  4]  0.0-601.3 sec  159 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 46751
+[  3]  0.0-601.2 sec  441451290 Bytes  5873912 bits/sec   0.197 ms 184739/485046 (38%)
+[  3]  0.0-601.2 sec  328 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 50931
+[  4]  0.0-601.2 sec  417722550 Bytes  5558246 bits/sec   0.286 ms 200115/484280 (41%)
+[  4]  0.0-601.2 sec  266 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 47899
+[  3]  0.0-601.2 sec  372349530 Bytes  4954451 bits/sec   1.157 ms 231475/484774 (48%)
+[  3]  0.0-601.2 sec  221 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 35876
+[  4]  0.0-601.2 sec  331530570 Bytes  4411369 bits/sec   0.607 ms 259514/485045 (54%)
+[  4]  0.0-601.2 sec  223 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 37499
+[  3]  0.0-601.2 sec  272164620 Bytes  3621427 bits/sec   0.262 ms 299855/485001 (62%)
+[  3]  0.0-601.2 sec  163 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 55704
+[  4]  0.0-601.4 sec  307748910 Bytes  4093928 bits/sec   0.374 ms 275692/485045 (57%)
+[  4]  0.0-601.4 sec  173 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 47038
+[  3]  0.0-601.2 sec  426204450 Bytes  5671277 bits/sec   0.228 ms 195110/485045 (40%)
+[  3]  0.0-601.2 sec  266 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 48215
+[  4]  0.0-601.2 sec  342245400 Bytes  4553836 bits/sec   1.040 ms 252180/485000 (52%)
+[  4]  0.0-601.2 sec  212 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 45324
+[  3]  0.0-601.2 sec  289666440 Bytes  3854297 bits/sec   0.506 ms 287944/484996 (59%)
+[  3]  0.0-601.2 sec  178 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 47548
+[  4]  0.0-601.2 sec  326813340 Bytes  4348821 bits/sec   0.266 ms 262722/485044 (54%)
+[  4]  0.0-601.2 sec  222 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 53633
+[  3]  0.0-601.3 sec  348820710 Bytes  4641085 bits/sec   0.597 ms 247015/484308 (51%)
+[  3]  0.0-601.3 sec  246 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 53053
+[  4]  0.0-601.3 sec  334896870 Bytes  4455689 bits/sec   4.639 ms 257225/485046 (53%)
+[  4]  0.0-601.3 sec  249 datagrams received out-of-order
+[  3] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 42887
+[  3]  0.0-601.2 sec  405102600 Bytes  5390398 bits/sec   0.244 ms 209466/485046 (43%)
+[  3]  0.0-601.2 sec  307 datagrams received out-of-order
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 44068
+[  4]  0.0-601.2 sec  374134110 Bytes  4978112 bits/sec   0.473 ms 230484/484997 (48%)
+[  4]  0.0-601.2 sec  276 datagrams received out-of-order

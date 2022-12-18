@@ -1,0 +1,385 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 37355 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  187501440 Bytes  2494934 bits/sec   0.325 ms 357490/485042 (74%)
+[  3]  0.0-601.2 sec  1 datagrams received out-of-order
+Rodada: 0
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 50371 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  65310630 Bytes  869050 bits/sec   0.404 ms 440613/485042 (91%)
+[  3]  0.0-601.2 sec  1 datagrams received out-of-order
+Rodada: 1
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 52296 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  119133210 Bytes  1585229 bits/sec   0.042 ms 404002/485045 (83%)
+[  3]  0.0-601.2 sec  1 datagrams received out-of-order
+Rodada: 2
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 50608 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506871 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  119612430 Bytes  1591568 bits/sec   0.836 ms 403676/485045 (83%)
+[  3]  0.0-601.2 sec  1 datagrams received out-of-order
+Rodada: 3
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 42205 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.3 sec  217560000 Bytes  2894543 bits/sec   5.375 ms 337042/485042 (69%)
+[  3]  0.0-601.3 sec  1 datagrams received out-of-order
+Rodada: 4
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 37129 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  350262780 Bytes  4660810 bits/sec   0.067 ms 246771/485045 (51%)
+[  3]  0.0-601.2 sec  6 datagrams received out-of-order
+Rodada: 5
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 37649 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506871 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.3 sec  88786530 Bytes  1181326 bits/sec   3.076 ms 424642/485041 (88%)
+Rodada: 6
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 36484 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506871 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  78353940 Bytes  1042606 bits/sec   0.372 ms 431743/485045 (89%)
+Rodada: 7
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 45408 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  165545520 Bytes  2202852 bits/sec   0.048 ms 372429/485045 (77%)
+[  3]  0.0-601.2 sec  4 datagrams received out-of-order
+Rodada: 8
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 39261 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  243362910 Bytes  3238263 bits/sec   0.045 ms 319492/485045 (66%)
+[  3]  0.0-601.2 sec  2 datagrams received out-of-order
+Rodada: 9
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 53418 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  272646780 Bytes  3627929 bits/sec   0.048 ms 299571/485045 (62%)
+[  3]  0.0-601.2 sec  3 datagrams received out-of-order
+Rodada: 10
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 55308 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.5 sec  212988300 Bytes  2832832 bits/sec   0.094 ms 340155/485045 (70%)
+[  3]  0.0-601.5 sec  4 datagrams received out-of-order
+Rodada: 11
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 33727 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.0 sec  45597930 Bytes  606983 bits/sec   0.027 ms 454026/485045 (94%)
+[  3]  0.0-601.0 sec  2 datagrams received out-of-order
+Rodada: 12
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 45886 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506871 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  53024370 Bytes  705527 bits/sec   0.214 ms 448974/485045 (93%)
+[  3]  0.0-601.2 sec  1 datagrams received out-of-order
+Rodada: 13
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 51951 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  360604230 Bytes  4798545 bits/sec   0.053 ms 239736/485045 (49%)
+[  3]  0.0-601.2 sec  9 datagrams received out-of-order
+Rodada: 14
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 51326 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  93287670 Bytes  1241315 bits/sec   0.044 ms 421583/485044 (87%)
+Rodada: 15
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 36368 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  231353010 Bytes  3078457 bits/sec   0.052 ms 327662/485045 (68%)
+[  3]  0.0-601.2 sec  2 datagrams received out-of-order
+Rodada: 16
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 57192 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.3 sec  63584850 Bytes  845899 bits/sec   8.016 ms 441785/485040 (91%)
+[  3]  0.0-601.3 sec  3 datagrams received out-of-order
+Rodada: 17
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 48828 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  106072260 Bytes  1411493 bits/sec   0.253 ms 412882/485040 (85%)
+[  3]  0.0-601.2 sec  1 datagrams received out-of-order
+Rodada: 18
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 57779 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.3 sec  138478410 Bytes  1842243 bits/sec   8.332 ms 390839/485042 (81%)
+[  3]  0.0-601.3 sec  3 datagrams received out-of-order
+Rodada: 19
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 40393 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  94898790 Bytes  1262759 bits/sec   0.101 ms 420488/485045 (87%)
+[  3]  0.0-601.2 sec  2 datagrams received out-of-order
+Rodada: 20
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 53109 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  289176930 Bytes  3847862 bits/sec   0.246 ms 288323/485042 (59%)
+Rodada: 21
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 48534 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  333337200 Bytes  4435499 bits/sec   0.046 ms 258285/485045 (53%)
+[  3]  0.0-601.2 sec  5 datagrams received out-of-order
+Rodada: 22
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 38905 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.4 sec  186648840 Bytes  2483041 bits/sec   8.622 ms 358068/485040 (74%)
+[  3]  0.0-601.4 sec  4 datagrams received out-of-order
+Rodada: 23
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 34441 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  153375390 Bytes  2040899 bits/sec   0.044 ms 380708/485045 (78%)
+[  3]  0.0-601.2 sec  2 datagrams received out-of-order
+Rodada: 24
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 50614 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.3 sec  174960870 Bytes  2327931 bits/sec   2.591 ms 366018/485039 (75%)
+[  3]  0.0-601.3 sec  2 datagrams received out-of-order
+Rodada: 25
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 38598 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  47797050 Bytes  635999 bits/sec   0.353 ms 452526/485041 (93%)
+Rodada: 26
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 34474 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  96364380 Bytes  1282255 bits/sec   0.191 ms 419489/485043 (86%)
+[  3]  0.0-601.2 sec  56 datagrams received out-of-order
+Rodada: 27
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 57882 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.3 sec  102691260 Bytes  1366202 bits/sec   6.688 ms 415186/485044 (86%)
+[  3]  0.0-601.3 sec  4 datagrams received out-of-order
+Rodada: 28
+------------------------------------------------------------
+Client connecting to 10.0.0.5, UDP port 5001
+Sending 1470 byte datagrams
+UDP buffer size: 212992 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 38841 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  713017620 Bytes  9506870 bits/sec
+[  3] Sent 485046 datagrams
+[  3] Server Report:
+[  3]  0.0-601.2 sec  181962480 Bytes  2421267 bits/sec   0.328 ms 361260/485044 (74%)
+[  3]  0.0-601.2 sec  92 datagrams received out-of-order
+Rodada: 29

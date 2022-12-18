@@ -1,0 +1,240 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 46178 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.5 sec  704380928 Bytes  9353232 bits/sec
+Rodada: 0
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 47636 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.3 sec  710803456 Bytes  9426251 bits/sec
+Rodada: 1
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 49142 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.5 sec  706871296 Bytes  9416890 bits/sec
+Rodada: 2
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 50588 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.8 sec  693239808 Bytes  9231169 bits/sec
+Rodada: 3
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 52184 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.2 sec  691142656 Bytes  9197008 bits/sec
+Rodada: 4
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 53740 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.4 sec  707526656 Bytes  9412448 bits/sec
+Rodada: 5
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 55238 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.2 sec  709099520 Bytes  9419846 bits/sec
+Rodada: 6
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 56738 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.9 sec  710672384 Bytes  9430039 bits/sec
+Rodada: 7
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 58244 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.4 sec  710803456 Bytes  9424640 bits/sec
+Rodada: 8
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 59750 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.1 sec  669122560 Bytes  8920673 bits/sec
+Rodada: 9
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 33126 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.3 sec  709099520 Bytes  9418966 bits/sec
+Rodada: 10
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 34658 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.5 sec  707395584 Bytes  9423407 bits/sec
+Rodada: 11
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 36140 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.5 sec  707919872 Bytes  9415323 bits/sec
+Rodada: 12
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 37674 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.8 sec  693895168 Bytes  9223576 bits/sec
+Rodada: 13
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 39328 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.4 sec  707133440 Bytes  9421942 bits/sec
+Rodada: 14
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 40846 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.1 sec  709099520 Bytes  9422166 bits/sec
+Rodada: 15
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 42374 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.3 sec  693239808 Bytes  9222469 bits/sec
+Rodada: 16
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 43966 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.1 sec  709492736 Bytes  9426606 bits/sec
+Rodada: 17
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 45480 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.4 sec  707526656 Bytes  9428007 bits/sec
+Rodada: 18
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 46962 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.4 sec  708050944 Bytes  9403655 bits/sec
+Rodada: 19
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 48470 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  717750272 Bytes  9569672 bits/sec
+Rodada: 20
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 49834 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.2 sec  717881344 Bytes  9567894 bits/sec
+Rodada: 21
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 51156 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.0 sec  717750272 Bytes  9569297 bits/sec
+Rodada: 22
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 52540 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.2 sec  717881344 Bytes  9567784 bits/sec
+Rodada: 23
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 53900 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.2 sec  717881344 Bytes  9567806 bits/sec
+Rodada: 24
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 55260 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.2 sec  717750272 Bytes  9567488 bits/sec
+Rodada: 25
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 56628 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.1 sec  717750272 Bytes  9567646 bits/sec
+Rodada: 26
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 57928 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.6 sec  710541312 Bytes  9432694 bits/sec
+Rodada: 27
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 59364 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.3 sec  714866688 Bytes  9527040 bits/sec
+Rodada: 28
+------------------------------------------------------------
+Client connecting to 10.0.0.5, TCP port 5001
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 60738 connected with 10.0.0.5 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.4 sec  709492736 Bytes  9438169 bits/sec
+Rodada: 29

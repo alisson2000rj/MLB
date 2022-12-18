@@ -1,0 +1,240 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 42382 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.4 sec  364904448 Bytes  4862195 bits/sec
+Rodada: 0
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 42526 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.4 sec  369754112 Bytes  4901894 bits/sec
+Rodada: 1
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 42648 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-608.8 sec  385613824 Bytes  5067491 bits/sec
+Rodada: 2
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 42796 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.2 sec  369360896 Bytes  4922977 bits/sec
+Rodada: 3
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 42920 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.2 sec  342097920 Bytes  4560147 bits/sec
+Rodada: 4
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43072 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-607.0 sec  358481920 Bytes  4724421 bits/sec
+Rodada: 5
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43228 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.9 sec  357695488 Bytes  4738640 bits/sec
+Rodada: 6
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43354 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-604.1 sec  357302272 Bytes  4731875 bits/sec
+Rodada: 7
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43480 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.6 sec  352845824 Bytes  4699592 bits/sec
+Rodada: 8
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43636 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.6 sec  380370944 Bytes  5066675 bits/sec
+Rodada: 9
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43748 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.2 sec  401342464 Bytes  5331317 bits/sec
+Rodada: 10
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 43914 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-610.4 sec  358350848 Bytes  4696553 bits/sec
+Rodada: 11
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 44046 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-604.4 sec  373161984 Bytes  4939247 bits/sec
+Rodada: 12
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 44186 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.4 sec  375783424 Bytes  4982564 bits/sec
+Rodada: 13
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 44334 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-603.9 sec  370278400 Bytes  4905468 bits/sec
+Rodada: 14
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 44450 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.5 sec  359530496 Bytes  4789536 bits/sec
+Rodada: 15
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 44586 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.1 sec  365035520 Bytes  4850200 bits/sec
+Rodada: 16
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 44732 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-605.2 sec  344457216 Bytes  4553578 bits/sec
+Rodada: 17
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 44878 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.8 sec  337117184 Bytes  4474384 bits/sec
+Rodada: 18
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 45014 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.5 sec  382468096 Bytes  5086618 bits/sec
+Rodada: 19
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 45226 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-606.4 sec  370933760 Bytes  4893472 bits/sec
+Rodada: 20
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 45442 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.7 sec  367263744 Bytes  4874779 bits/sec
+Rodada: 21
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 45590 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-608.2 sec  363724800 Bytes  4784545 bits/sec
+Rodada: 22
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 45752 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-609.4 sec  386793472 Bytes  5077921 bits/sec
+Rodada: 23
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 45876 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-601.9 sec  398983168 Bytes  5302750 bits/sec
+Rodada: 24
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 45996 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.2 sec  382861312 Bytes  5086346 bits/sec
+Rodada: 25
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 46172 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-605.4 sec  356777984 Bytes  4714314 bits/sec
+Rodada: 26
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 48352 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-600.4 sec  381681664 Bytes  5085825 bits/sec
+Rodada: 27
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 48474 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-605.2 sec  361365504 Bytes  4776707 bits/sec
+Rodada: 28
+------------------------------------------------------------
+Client connecting to 10.0.0.6, TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.2 port 48624 connected with 10.0.0.6 port 5002
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0-602.2 sec  379715584 Bytes  5044785 bits/sec
+Rodada: 29

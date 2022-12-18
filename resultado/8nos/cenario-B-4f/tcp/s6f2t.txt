@@ -1,0 +1,65 @@
+------------------------------------------------------------
+Server listening on TCP port 5002
+TCP window size: 87380 Byte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 50388
+[ ID] Interval       Transfer     Bandwidth
+[  4]  0.0-635.4 sec  213385216 Bytes  2686776 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 51062
+[  5]  0.0-624.8 sec  230162432 Bytes  2947092 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 51672
+[  4]  0.0-627.1 sec  213778432 Bytes  2727220 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 52336
+[  5]  0.0-621.5 sec  221118464 Bytes  2846345 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 52950
+[  4]  0.0-617.9 sec  200146944 Bytes  2591460 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 53560
+[  5]  0.0-615.4 sec  206569472 Bytes  2685539 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 54216
+[  4]  0.0-621.0 sec  208273408 Bytes  2683045 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 54826
+[  5]  0.0-618.4 sec  221380608 Bytes  2863830 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 55414
+[  4]  0.0-626.4 sec  227147776 Bytes  2900789 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 56088
+[  5]  0.0-634.6 sec  192544768 Bytes  2427432 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 56696
+[  4]  0.0-619.7 sec  211025920 Bytes  2724190 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 57352
+[  5]  0.0-635.7 sec  218890240 Bytes  2754706 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 57974
+[  4]  0.0-629.8 sec  198967296 Bytes  2527559 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 58576
+[  5]  0.0-626.2 sec  210108416 Bytes  2684102 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 59228
+[  4]  0.0-625.2 sec  195952640 Bytes  2507409 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 59844
+[  5]  0.0-628.1 sec  227803136 Bytes  2901392 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 60452
+[  4]  0.0-624.3 sec  219414528 Bytes  2811484 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 32866
+[  5]  0.0-630.8 sec  220856320 Bytes  2801020 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 33470
+[  4]  0.0-623.5 sec  193724416 Bytes  2485600 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 34088
+[  5]  0.0-625.0 sec  225837056 Bytes  2890503 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 34738
+[  4]  0.0-629.3 sec  210894848 Bytes  2680798 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 35348
+[  5]  0.0-615.0 sec  195952640 Bytes  2548824 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 36012
+[  4]  0.0-634.1 sec  219021312 Bytes  2763265 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 36676
+[  5]  0.0-619.0 sec  211288064 Bytes  2730498 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 37296
+[  4]  0.0-634.6 sec  222035968 Bytes  2798985 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 38016
+[  5]  0.0-628.5 sec  222953472 Bytes  2837719 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 38610
+[  4]  0.0-630.0 sec  218103808 Bytes  2769642 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 39416
+[  5]  0.0-609.9 sec  219414528 Bytes  2878019 bits/sec
+[  4] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 39994
+[  4]  0.0-616.3 sec  209190912 Bytes  2715592 bits/sec
+[  5] local 10.0.0.6 port 5002 connected with 10.0.0.2 port 40558
+[  5]  0.0-625.9 sec  203554816 Bytes  2601633 bits/sec
